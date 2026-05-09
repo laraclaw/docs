@@ -1,6 +1,6 @@
 export default defineAppConfig({
   seo: {
-    title: 'LaraClaw',
+    title: 'Laraclaw',
     description: 'An AI assistant for your Laravel application. Speaks Telegram, Slack, Email, HTTP, and the terminal.',
     url: 'https://laraclaw.dev',
     socials: {
@@ -11,7 +11,7 @@ export default defineAppConfig({
     github: 'laraclaw/laraclaw',
   },
 
-  title: 'LaraClaw',
+  title: 'Laraclaw',
   description: 'An AI assistant for your Laravel application. Speaks Telegram, Slack, Email, HTTP, and the terminal.',
   url: 'https://laraclaw.dev',
 
@@ -25,7 +25,7 @@ export default defineAppConfig({
   docus: {
     footer: {
       credits: {
-        text: 'Made with LaraClaw',
+        text: 'Made with Laraclaw',
         href: 'https://github.com/laraclaw/laraclaw',
       },
     },
@@ -38,6 +38,6 @@ export default defineAppConfig({
   },
 
   header: {
-    title: 'LaraClaw',
+    title: 'Laraclaw',
   },
 })

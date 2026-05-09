@@ -1,6 +1,6 @@
-# LaraClaw Docs
+# Laraclaw Docs
 
-Documentation site for LaraClaw, built with [Nuxt](https://nuxt.com) and the
+Documentation site for Laraclaw, built with [Nuxt](https://nuxt.com) and the
 [Docus](https://docus.dev) theme.
 
 ## Setup
