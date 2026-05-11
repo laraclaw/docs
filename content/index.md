@@ -22,8 +22,8 @@ features:
   - title: Five Connectors
     description: Telegram, Slack, Email, HTTP API, and the terminal — wire up the surfaces you actually use.
     icon: i-lucide-cable
-  - title: Eloquent and Bash
-    description: Optional superpowers let the agent query your models and run shell commands. Off by default.
+  - title: Tinker
+    description: Optional in-process PHP eval lets the agent query your models, hit the cache, or shell out via `Process::run`. Off by default.
     icon: i-lucide-database
   - title: RAG Memory
     description: Optional vector memory across conversations and attached documents. Postgres or JSON fallback.
