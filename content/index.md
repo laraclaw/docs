@@ -1,7 +1,7 @@
 ---
 navigation: false
 title: Laraclaw
-description: An AI assistant for your Laravel application. Speaks Telegram, Slack, Email, HTTP, and the terminal.
+description: An AI assistant for your Laravel application, speaking Telegram, Slack, Email, HTTP, and the terminal
 ---
 
 ::landing-hero
